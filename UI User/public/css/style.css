@@ -1,0 +1,63 @@
+a{
+    color: #6c757d!important;
+}
+span a{
+    color: #fafafa!important;
+    font-size: .9rem;
+}
+/* Css màu cho icon */
+.delete-icon:hover{
+    color: #33b5e5 !important;
+}
+.like-icon:hover{
+    color: #ff4444 !important;
+    cursor: pointer;
+}
+.more-icon:hover{
+    color: #616161 !important;
+    cursor: pointer;
+}
+.like-acive{
+    color: #ff4444 !important;
+}
+
+/* Css cho carousel */
+#caltoaction .view {
+    min-height: 100vh !important;
+    height: unset !important;
+}
+
+/* Css button tròn các góc */
+.border-button{
+    border-radius: 10vw;
+}
+.border-button-1{
+    border-radius: 0.35vw;
+}
+.border-button-circle{
+    border-radius: 50%;
+}
+
+/* Css cho các icon */
+.icon:hover{
+    cursor: pointer;
+}
+.fa-chevron-right, .fa-chevron-left{
+    background-color: #fb3;
+}
+
+/* Css chỉnh lại thư viện */
+.pagination.pagination-circle .page-item.active .page-link{
+    color: #fafafa !important;
+    background-color:  #fb3;
+}
+.page-item.active .page-link{
+    color: #fafafa !important;
+    background-color: #fb3 !important;
+}
+table.dataTable thead .sorting:before, table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:before, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:before, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_asc_disabled:before, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc_disabled:before, table.dataTable thead .sorting_desc_disabled:after{
+    bottom: 0.5rem;
+}
+
+
+

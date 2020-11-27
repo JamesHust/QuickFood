@@ -7,7 +7,7 @@ import { MDBIcon, MDBBtn } from 'mdbreact';
 import ItemProductOfShop from './ItemProductOfShop';
 import TabInfo from './TabInfo';
 //Import css
-import '../../assets/css/Common/style.css'
+import './style.css'
 
 class InfoProduct extends Component {
     state = {
@@ -73,13 +73,13 @@ class InfoProduct extends Component {
                                     <tbody>
                                         <tr>
                                             <td className="pl-0 pb-0 w-25"><strong>Số lượng</strong></td>
-                                            <td className="pb-0" style={{paddingLeft:"3vw"}}><strong>Chọn size</strong></td>
+                                            <td className="pb-0" style={{ paddingLeft: "3vw" }}><strong>Chọn size</strong></td>
                                         </tr>
                                         <tr>
                                             <td className="pl-0">
-                                                <div className="def-number-input number-input mb-0">
+                                                <div className="def-number-input number-input">
                                                     <button onClick={this.decrease} className="minus"></button>
-                                                    <input className="quantity" name="quantity" style={{maxWidth:"4.4rem"}} value={this.state.value} onChange={() => console.log('change')}
+                                                    <input className="quantity" name="quantity" value={this.state.value} onChange={() => console.log('change')}
                                                         type="number" />
                                                     <button onClick={this.increase} className="plus"></button>
                                                 </div>
@@ -87,7 +87,7 @@ class InfoProduct extends Component {
                                             <td className="pl-5">
                                                 <div className="mt-1">
                                                     <div className="form-check form-check-inline pl-0">
-                                                        <input type="radio" className="form-check-input" style={{width:"0.15vw"}} id="small" name="materialExampleRadios" defaultChecked />
+                                                        <input type="radio" className="form-check-input" style={{ width: "0.15vw" }} id="small" name="materialExampleRadios" defaultChecked />
                                                         <label className="form-check-label small text-uppercase card-link-secondary" htmlFor="small">S</label>
                                                     </div>
                                                     <div className="form-check form-check-inline pl-0">
@@ -110,7 +110,7 @@ class InfoProduct extends Component {
                             </MDBBtn>
                             {/* Button thêm sản phẩm vào giỏ hàng */}
                             <MDBBtn color="warning" className="ml-0 border-button-1" outline>
-                                <MDBIcon icon="shopping-cart" className="pr-1"/>Thêm vào giỏ
+                                <MDBIcon icon="shopping-cart" className="pr-1" />Thêm vào giỏ
                             </MDBBtn>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ class InfoProduct extends Component {
                 {/*Section: Block Content*/}
                 {/* Classic tabs */}
                 <Router>
-                    <TabInfo/>
+                    <TabInfo />
                 </Router>
                 <hr />
                 {/* Danh sách sản phẩm khác của cửa hàng */}
