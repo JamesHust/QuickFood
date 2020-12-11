@@ -1,0 +1,29 @@
+/* Custom lại 1 số thuộc tính cho bảng */
+ul{
+    margin-bottom: 0 !important;
+}
+thead th{
+    border-bottom: none !important;
+}
+table{
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+}
+.table-responsive{
+    margin-bottom: 1rem !important;
+}
+/*  */
+/* Custom textarea */
+textarea.form-control{
+    margin-top: 1rem !important;
+    height: 250px !important;
+}
+/*  */
+/* Custom thẻ */
+.card{
+    height: 485px !important;
+}
+.card-body{
+    padding: 1rem !important;
+}
+/*  */

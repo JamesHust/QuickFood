@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickFood.Common\QuickFood.Common.csproj" />
+    <ProjectReference Include="..\QuickFood.Models\QuickFood.Models.csproj" />
+    <ProjectReference Include="..\QuickFood.Repositories\QuickFood.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

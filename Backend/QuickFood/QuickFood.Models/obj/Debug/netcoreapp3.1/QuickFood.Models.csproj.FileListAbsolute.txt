@@ -1,0 +1,12 @@
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\bin\Debug\netcoreapp3.1\QuickFood.Models.deps.json
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\bin\Debug\netcoreapp3.1\QuickFood.Models.dll
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.csprojAssemblyReference.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.AssemblyInfoInputs.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.AssemblyInfo.cs
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\bin\Debug\netcoreapp3.1\QuickFood.Models.runtimeconfig.json
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\bin\Debug\netcoreapp3.1\QuickFood.Models.runtimeconfig.dev.json
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.genruntimeconfig.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\bin\Debug\netcoreapp3.1\QuickFood.Models.pdb
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.csproj.CoreCompileInputs.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.dll
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Models\obj\Debug\netcoreapp3.1\QuickFood.Models.pdb

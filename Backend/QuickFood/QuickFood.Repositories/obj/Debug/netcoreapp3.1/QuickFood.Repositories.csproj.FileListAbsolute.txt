@@ -1,0 +1,5 @@
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Repositories\bin\Debug\netcoreapp3.1\QuickFood.Repositories.deps.json
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Repositories\bin\Debug\netcoreapp3.1\QuickFood.Repositories.dll
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Repositories\obj\Debug\netcoreapp3.1\QuickFood.Repositories.csprojAssemblyReference.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Repositories\obj\Debug\netcoreapp3.1\QuickFood.Repositories.AssemblyInfoInputs.cache
+D:\My Project\QuickFood\Backend\QuickFood\QuickFood.Repositories\obj\Debug\netcoreapp3.1\QuickFood.Repositories.AssemblyInfo.cs
