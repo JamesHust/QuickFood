@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MT3BpNY9ZvCqUpm+4sl+SvMhqZxX9ckxz3nXqrii1ViM2OlqleFm6S1XnQZaczRydh2I7ecBBaoBs7A/UdXtkA==",
+  "dgSpecHash": "pIyc/XhS+uo9m41ZYKmOZfVlQx7wjjOroGHkQFrE77zI21RSi9fr5dl4VNlIx0zsW1B5ZlY2ZcEwO6uCTLwfog==",
   "success": true,
-  "projectFilePath": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
+  "projectFilePath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="MySql.Data" Version="8.0.22" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickFood.ApplicationCore\QuickFood.ApplicationCore.csproj" />
+    <ProjectReference Include="..\QuickFood.Common\QuickFood.Common.csproj" />
+    <ProjectReference Include="..\QuickFood.Models\QuickFood.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Dictionary\" />
+  </ItemGroup>
+
+</Project>

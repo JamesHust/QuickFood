@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Infrastructure\\QuickFood.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\QuickFood.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\QuickFood.ApplicationCore.csproj",
+        "projectName": "QuickFood.ApplicationCore",
+        "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\QuickFood.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hungj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {
+                "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
+        "projectName": "QuickFood.Common",
+        "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
+        "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hungj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Infrastructure\\QuickFood.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Infrastructure\\QuickFood.Infrastructure.csproj",
+        "projectName": "QuickFood.Infrastructure",
+        "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Infrastructure\\QuickFood.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hungj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\QuickFood.ApplicationCore.csproj": {
+                "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.ApplicationCore\\QuickFood.ApplicationCore.csproj"
+              },
+              "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj": {
+                "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj"
+              },
+              "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {
+                "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
+        "projectName": "QuickFood.Models",
+        "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
+        "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hungj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

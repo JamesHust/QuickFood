@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuickFood.ApplicationCore\QuickFood.ApplicationCore.csproj" />
+    <ProjectReference Include="..\QuickFood.Common\QuickFood.Common.csproj" />
+    <ProjectReference Include="..\QuickFood.Infrastructure\QuickFood.Infrastructure.csproj" />
+  </ItemGroup>
+
+
+</Project>

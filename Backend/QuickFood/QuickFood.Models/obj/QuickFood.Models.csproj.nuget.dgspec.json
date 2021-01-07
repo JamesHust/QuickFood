@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {}
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {}
   },
   "projects": {
-    "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {
+    "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
+        "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
         "projectName": "QuickFood.Models",
-        "projectPath": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
+        "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\QuickFood.Models.csproj",
         "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
-        "outputPath": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Models\\obj\\",
+        "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,15 +42,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Dapper.Contrib": {
               "target": "Package",
-              "version": "[5.0.1, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[3.2.0, )"
+              "version": "[2.0.78, )"
             }
           },
           "imports": [

@@ -1,0 +1,16 @@
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.ApplicationCore.dll
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.csprojAssemblyReference.cache
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.AssemblyInfoInputs.cache
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.AssemblyInfo.cs
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Infrastructure.deps.json
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Infrastructure.dll
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Infrastructure.pdb
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Common.dll
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Models.dll
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.ApplicationCore.pdb
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Common.pdb
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\bin\Debug\netcoreapp3.1\QuickFood.Models.pdb
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.csproj.CopyComplete
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.dll
+D:\My Project\QuickFood\QuickFood\QuickFood.Infrastructure\obj\Debug\netcoreapp3.1\QuickFood.Infrastructure.pdb

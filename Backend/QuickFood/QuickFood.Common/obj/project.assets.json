@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
+      "projectUniqueName": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
       "projectName": "QuickFood.Common",
-      "projectPath": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
+      "projectPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\QuickFood.Common.csproj",
       "packagesPath": "C:\\Users\\hungj\\.nuget\\packages\\",
-      "outputPath": "D:\\My Project\\QuickFood\\Backend\\QuickFood\\QuickFood.Common\\obj\\",
+      "outputPath": "D:\\My Project\\QuickFood\\QuickFood\\QuickFood.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
